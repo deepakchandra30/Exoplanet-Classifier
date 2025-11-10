@@ -1,0 +1,17 @@
+koi_period
+koi_depth
+koi_duration
+koi_impact
+koi_model_snr
+koi_steff
+koi_slogg
+koi_srad
+koi_kepmag
+transit_depth_log
+period_log
+duration_hours
+transit_speed
+period_duration_ratio
+star_type_encoded
+snr_depth_ratio
+transit_quality
